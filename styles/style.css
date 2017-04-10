@@ -1,0 +1,63 @@
+/*================================== Main page ==================================*/
+html {    
+
+}
+img {
+    
+}
+.rsw-content-wrapper {
+    margin-top: 5rem; /* because header isn't ready */
+    font-family: 'Roboto', sans-serif;
+}
+.rsw-content-wrapper a {
+    color: initial;
+    text-decoration: none;    
+}
+.rsw-content-wrapper .rsw-top-content {
+
+}
+.rsw-content-wrapper .rsw-article-title {
+    
+}
+.rsw-article-tags {
+    margin: 0.5rem 0rem 0.5rem 0rem;
+}
+.rsw-article-tags span {
+    background-color: #ff0000;
+    color: #fff;
+    margin-right: 1rem;
+    padding: 0.2rem 0.5rem
+}
+/*================================== Top article ==================================*/
+.rsw-top-article {
+
+}
+.rsw-top-article img {
+    width: 100%;
+}
+.rsw-top-article .rsw-top-article-title {
+    font-size: 2rem;
+}
+.rsw-top-left-articles {
+    padding-left: 5rem;
+}
+.rsw-top-left-articles .rsw-top-left-article-item {
+    margin-bottom: 1rem;
+    height: 200px;
+}
+.rsw-top-left-articles .rsw-top-left-article-item .rsw-top-left-article-item-image-block {    
+    text-align: center;
+}
+.rsw-top-left-articles .rsw-top-left-article-item .rsw-top-left-article-item-image-block img {
+    width: 100%;
+    max-height: 200px;
+}
+.rsw-top-left-articles .rsw-top-left-article-item .rsw-top-left-article-item-title {
+    vertical-align: top;
+}
+.rsw-top-left-articles .rsw-top-left-article-item .rsw-top-left-article-item-title .rsw-article-tags {
+    margin: 0 0 0.5rem 0;
+}
+.rsw-top-left-articles .rsw-top-left-article-item .rsw-top-left-article-item-title .rsw-top-left-article-item-title-text {
+    font-size: 1.6rem;
+}
